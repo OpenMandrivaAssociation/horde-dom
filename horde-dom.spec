@@ -5,7 +5,7 @@
 
 Name:          horde-dom
 Version:       0.1.0
-Release:       %mkrel 1
+Release:       %mkrel 2
 Summary:       Wrapper classes for PHP4 domxml compatibility using PHP5's dom functions
 License:       LGPL
 Group:         Networking/Mail
@@ -16,7 +16,6 @@ Requires(pre): php-pear
 Requires:      php-pear-channel-horde
 BuildRequires: php-pear
 BuildRequires: php-pear-channel-horde
-BuildRoot:     %{_tmppath}/%{name}-%{version}
 
 %description
 These classes allow the use of code written for PHP4's domxml implementation
