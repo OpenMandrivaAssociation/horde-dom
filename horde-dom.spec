@@ -53,3 +53,17 @@ fi
 %dir %{peardir}/Horde
 %{peardir}/Horde/DOM.php
 
+
+
+%changelog
+* Mon Jul 26 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.1.0-2mdv2011.0
++ Revision: 560543
+- Increased release for rebuild
+
+* Sat Feb 20 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.1.0-1mdv2010.1
++ Revision: 508846
+- corrected Group
+- corrected group
+- import horde-dom
+
+
