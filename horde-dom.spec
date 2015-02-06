@@ -5,7 +5,7 @@
 
 Name:          horde-dom
 Version:       0.1.0
-Release:       %mkrel 2
+Release:       3
 Summary:       Wrapper classes for PHP4 domxml compatibility using PHP5's dom functions
 License:       LGPL
 Group:         Networking/Mail
